@@ -1,3 +1,3 @@
 # Intégration
 
-[Lien vers le site](https://github.com/abane1/Slides.git) 
+[Lien vers le site](https://abane1.github.io/Slides/) 
